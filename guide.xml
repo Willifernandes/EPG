@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ESPN FULL HD">
+    <display-name lang="pt">ESPN FULL HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN 2 HD">
+    <display-name lang="pt">ESPN 2 HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN Brasil HD">
+    <display-name lang="pt">ESPN Brasil HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN Extra HD">
+    <display-name lang="pt">ESPN Extra HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
