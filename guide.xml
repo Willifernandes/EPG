@@ -1,0 +1,403 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ESPN Brasil [Brazil]">
+    <display-name lang="pt">ESPN Brasil [Brazil] HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20200730200000 -0300" stop="20200730210000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200730210000 -0300" stop="20200730220000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200730220000 -0300" stop="20200730233000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Resenha: Rodrigo Rodrigues e Zico</title>
+  </programme>
+  <programme start="20200730233000 -0300" stop="20200731003000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Linha de Passe: Mesa-redonda - Ao Vivo</title>
+  </programme>
+  <programme start="20200731003000 -0300" stop="20200731010000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Premier League Legends: Gary Neville</title>
+  </programme>
+  <programme start="20200731010000 -0300" stop="20200731020000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200731020000 -0300" stop="20200731034500 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Son of Flubber</title>
+  </programme>
+  <programme start="20200731034500 -0300" stop="20200731044500 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200731044500 -0300" stop="20200731063000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Campeonato Chinês</title>
+  </programme>
+  <programme start="20200731063000 -0300" stop="20200731070000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Premier League Legends: Robert Pires</title>
+  </programme>
+  <programme start="20200731070000 -0300" stop="20200731090000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Fulham x Cardiff City</title>
+  </programme>
+  <programme start="20200731090000 -0300" stop="20200731100000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Especial: De Comentarista a Professor</title>
+  </programme>
+  <programme start="20200731100000 -0300" stop="20200731110000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200731110000 -0300" stop="20200731120000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200731120000 -0300" stop="20200731140000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Bate-Bola Debate - Ao Vivo</title>
+  </programme>
+  <programme start="20200731140000 -0300" stop="20200731150000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Futebol no Mundo - Ao Vivo</title>
+  </programme>
+  <programme start="20200731150000 -0300" stop="20200731160000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Bola da Vez: Carlitos Paéz, Sobrevivente da Tragédia do Andes</title>
+  </programme>
+  <programme start="20200731160000 -0300" stop="20200731170000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Especial: De Comentarista a Professor</title>
+  </programme>
+  <programme start="20200731170000 -0300" stop="20200731180000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Especial: Gustavo Hofman - Em Estado de Choque</title>
+  </programme>
+  <programme start="20200731180000 -0300" stop="20200731200000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Futebol na Veia - Ao Vivo</title>
+  </programme>
+  <programme start="20200731200000 -0300" stop="20200731210000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200731210000 -0300" stop="20200731220000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200731220000 -0300" stop="20200731230000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Resenha de Casa: Maxwell</title>
+  </programme>
+  <programme start="20200731230000 -0300" stop="20200801000000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200801000000 -0300" stop="20200801010000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Resenha de Casa: Maxwell</title>
+  </programme>
+  <programme start="20200801010000 -0300" stop="20200801020000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Especial: Câmera ESPN</title>
+  </programme>
+  <programme start="20200801020000 -0300" stop="20200801030000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Futebol No Mundo</title>
+  </programme>
+  <programme start="20200801030000 -0300" stop="20200801040000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200801040000 -0300" stop="20200801050000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Resenha de Casa: Maxwell</title>
+  </programme>
+  <programme start="20200801050000 -0300" stop="20200801070000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Fulham x Cardiff City</title>
+  </programme>
+  <programme start="20200801070000 -0300" stop="20200801090000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Campeonato Chinês</title>
+  </programme>
+  <programme start="20200801090000 -0300" stop="20200801100000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Especial: Câmera ESPN</title>
+  </programme>
+  <programme start="20200801100000 -0300" stop="20200801110000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200801110000 -0300" stop="20200801120000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Resenha de Casa: Maxwell</title>
+  </programme>
+  <programme start="20200801120000 -0300" stop="20200801140000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Bate-Bola Debate - Ao Vivo</title>
+  </programme>
+  <programme start="20200801140000 -0300" stop="20200801153000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Resenha: Rodrigo Rodrigues e Zico</title>
+  </programme>
+  <programme start="20200801153000 -0300" stop="20200801180000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Liverpool x Chelsea</title>
+  </programme>
+  <programme start="20200801180000 -0300" stop="20200801200000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Futebol na Veia - Ao Vivo</title>
+  </programme>
+  <programme start="20200801200000 -0300" stop="20200801210000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200801210000 -0300" stop="20200801220000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200801220000 -0300" stop="20200801230000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Bola da Vez: Alisson, Goleiro do Liverpool e da Seleção</title>
+  </programme>
+  <programme start="20200801230000 -0300" stop="20200802000000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200802000000 -0300" stop="20200802010000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Mundo Premier League</title>
+  </programme>
+  <programme start="20200802010000 -0300" stop="20200802020000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Bola da Vez: Alisson, Goleiro do Liverpool e da Seleção</title>
+  </programme>
+  <programme start="20200802020000 -0300" stop="20200802030000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Especial: Câmera ESPN</title>
+  </programme>
+  <programme start="20200802030000 -0300" stop="20200802040000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200802040000 -0300" stop="20200802055500 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Arsenal x Watford</title>
+  </programme>
+  <programme start="20200802055500 -0300" stop="20200802065500 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Mundo Premier League</title>
+  </programme>
+  <programme start="20200802065500 -0300" stop="20200802090000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Shanghai SIPG vs. Hebei China Fortune FC - Ao Vivo</title>
+  </programme>
+  <programme start="20200802090000 -0300" stop="20200802100000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Especial: Câmera ESPN</title>
+  </programme>
+  <programme start="20200802100000 -0300" stop="20200802110000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200802110000 -0300" stop="20200802120000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Bola da Vez: Alisson, Goleiro do Liverpool e da Seleção</title>
+  </programme>
+  <programme start="20200802120000 -0300" stop="20200802130000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Futebol no Mundo - Ao Vivo</title>
+  </programme>
+  <programme start="20200802130000 -0300" stop="20200802140000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Resenha de Casa: Maxwell</title>
+  </programme>
+  <programme start="20200802140000 -0300" stop="20200802160000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Bate-Bola Debate - Ao Vivo</title>
+  </programme>
+  <programme start="20200802160000 -0300" stop="20200802170000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Bola da Vez: Alisson, Goleiro do Liverpool e da Seleção</title>
+  </programme>
+  <programme start="20200802170000 -0300" stop="20200802180000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Mundo Premier League</title>
+  </programme>
+  <programme start="20200802180000 -0300" stop="20200802210000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200802210000 -0300" stop="20200802220000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Linha de Passe: Mesa-redonda - Ao Vivo</title>
+  </programme>
+  <programme start="20200802220000 -0300" stop="20200802230000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Resenha de Casa: Maxwell</title>
+  </programme>
+  <programme start="20200802230000 -0300" stop="20200803000000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200803000000 -0300" stop="20200803010000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200803010000 -0300" stop="20200803030000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Campeonato Chinês</title>
+  </programme>
+  <programme start="20200803030000 -0300" stop="20200803040000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Futebol No Mundo</title>
+  </programme>
+  <programme start="20200803040000 -0300" stop="20200803050000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200803050000 -0300" stop="20200803070000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Brentford x Swansea City</title>
+  </programme>
+  <programme start="20200803070000 -0300" stop="20200803090000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Fulham x Cardiff City</title>
+  </programme>
+  <programme start="20200803090000 -0300" stop="20200803100000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200803100000 -0300" stop="20200803110000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200803110000 -0300" stop="20200803120000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200803120000 -0300" stop="20200803140000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Bate-Bola Debate - Ao Vivo</title>
+  </programme>
+  <programme start="20200803140000 -0300" stop="20200803150000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Futebol no Mundo - Ao Vivo</title>
+  </programme>
+  <programme start="20200803150000 -0300" stop="20200803170000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Campeonato Chinês</title>
+  </programme>
+  <programme start="20200803170000 -0300" stop="20200803180000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Resenha de Casa: Maxwell</title>
+  </programme>
+  <programme start="20200803180000 -0300" stop="20200803200000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Futebol na Veia - Ao Vivo</title>
+  </programme>
+  <programme start="20200803200000 -0300" stop="20200803210000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200803210000 -0300" stop="20200803220000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200803220000 -0300" stop="20200803230000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200803230000 -0300" stop="20200804000000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200804000000 -0300" stop="20200804010000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200804010000 -0300" stop="20200804033000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Liverpool x Chelsea</title>
+  </programme>
+  <programme start="20200804033000 -0300" stop="20200804040000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Mundo Premier League</title>
+  </programme>
+  <programme start="20200804040000 -0300" stop="20200804062500 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Campeonato Chinês</title>
+  </programme>
+  <programme start="20200804062500 -0300" stop="20200804065500 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Manchester United x Liverpool</title>
+  </programme>
+  <programme start="20200804065500 -0300" stop="20200804075500 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Especial: Candidato a Juiz - Desafio de Repórter</title>
+  </programme>
+  <programme start="20200804075500 -0300" stop="20200804085500 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200804085500 -0300" stop="20200804105000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Guangzhou R&amp;F vs. Guangzhou Evergrande - Ao Vivo</title>
+  </programme>
+  <programme start="20200804105000 -0300" stop="20200804120000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200804120000 -0300" stop="20200804140000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Bate-Bola Debate - Ao Vivo</title>
+  </programme>
+  <programme start="20200804140000 -0300" stop="20200804153000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Futebol no Mundo - Ao Vivo</title>
+  </programme>
+  <programme start="20200804153000 -0300" stop="20200804154000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter Abre o Jogo - Ao Vivo</title>
+  </programme>
+  <programme start="20200804154000 -0300" stop="20200804174500 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Fulham x Cardiff City - Ao Vivo</title>
+  </programme>
+  <programme start="20200804174500 -0300" stop="20200804200000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Futebol na Veia - Ao Vivo</title>
+  </programme>
+  <programme start="20200804200000 -0300" stop="20200804210000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200804210000 -0300" stop="20200804220000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200804220000 -0300" stop="20200804233000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Resenha: Rodrigo Rodrigues e Zico</title>
+  </programme>
+  <programme start="20200804233000 -0300" stop="20200805000000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Linha de Passe: Mesa-redonda - Ao Vivo</title>
+  </programme>
+  <programme start="20200805000000 -0300" stop="20200805010000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Bola da Vez: Carlitos Paéz, Sobrevivente da Tragédia do Andes</title>
+  </programme>
+  <programme start="20200805010000 -0300" stop="20200805024500 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Lance Livre</title>
+  </programme>
+  <programme start="20200805024500 -0300" stop="20200805034500 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200805034500 -0300" stop="20200805044500 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Futebol No Mundo</title>
+  </programme>
+  <programme start="20200805044500 -0300" stop="20200805063000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Campeonato Chinês</title>
+  </programme>
+  <programme start="20200805063000 -0300" stop="20200805083000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Leicester City x Manchester United</title>
+  </programme>
+  <programme start="20200805083000 -0300" stop="20200805090000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Premier League Legends: Tony Adams</title>
+  </programme>
+  <programme start="20200805090000 -0300" stop="20200805100000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Especial: Gustavo Hofman - Em Estado de Choque</title>
+  </programme>
+  <programme start="20200805100000 -0300" stop="20200805110000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200805110000 -0300" stop="20200805120000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200805120000 -0300" stop="20200805140000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Bate-Bola Debate - Ao Vivo</title>
+  </programme>
+  <programme start="20200805140000 -0300" stop="20200805153000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Futebol no Mundo - Ao Vivo</title>
+  </programme>
+  <programme start="20200805153000 -0300" stop="20200805154000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter Abre o Jogo - Ao Vivo</title>
+  </programme>
+  <programme start="20200805154000 -0300" stop="20200805174500 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Brentford x Swansea City - Ao Vivo</title>
+  </programme>
+  <programme start="20200805174500 -0300" stop="20200805200000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Futebol na Veia - Ao Vivo</title>
+  </programme>
+  <programme start="20200805200000 -0300" stop="20200805210000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200805210000 -0300" stop="20200805220000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200805220000 -0300" stop="20200805230000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Resenha de Casa: Rafinha</title>
+  </programme>
+  <programme start="20200805230000 -0300" stop="20200805233000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Premier League Legends: Tony Adams</title>
+  </programme>
+  <programme start="20200805233000 -0300" stop="20200806003000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Linha de Passe: Mesa-redonda - Ao Vivo</title>
+  </programme>
+  <programme start="20200806003000 -0300" stop="20200806013000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Especial: Gustavo Hofman - Em Estado de Choque</title>
+  </programme>
+  <programme start="20200806013000 -0300" stop="20200806023000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200806023000 -0300" stop="20200806033000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Especial: Câmera ESPN</title>
+  </programme>
+  <programme start="20200806033000 -0300" stop="20200806043000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200806043000 -0300" stop="20200806062500 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Brentford x Swansea City</title>
+  </programme>
+  <programme start="20200806062500 -0300" stop="20200806065500 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Manchester United x Liverpool</title>
+  </programme>
+  <programme start="20200806065500 -0300" stop="20200806075500 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Especial: Candidato a Juiz - Desafio de Repórter</title>
+  </programme>
+  <programme start="20200806075500 -0300" stop="20200806085500 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200806085500 -0300" stop="20200806105000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Guangzhou R&amp;F vs. Guangzhou Evergrande - Ao Vivo</title>
+  </programme>
+  <programme start="20200806105000 -0300" stop="20200806120000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200806120000 -0300" stop="20200806140000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Bate-Bola Debate - Ao Vivo</title>
+  </programme>
+  <programme start="20200806140000 -0300" stop="20200806153000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Futebol no Mundo - Ao Vivo</title>
+  </programme>
+  <programme start="20200806153000 -0300" stop="20200806154000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Sportscenter Abre o Jogo - Ao Vivo</title>
+  </programme>
+  <programme start="20200806154000 -0300" stop="20200806174500 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Fulham x Cardiff City - Ao Vivo</title>
+  </programme>
+  <programme start="20200806174500 -0300" stop="20200806200000 -0300" channel="ESPN Brasil [Brazil]">
+    <title lang="pt">Futebol na Veia - Ao Vivo</title>
+  </programme>
+</tv>
